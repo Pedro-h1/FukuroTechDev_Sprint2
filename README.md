@@ -22,7 +22,7 @@
   <p>🔌 Arduino UNO & Eletrônica Básica</p>
   <p>🌐 Plataformas Tinkercad & Flowgorithm</p>
   <p>💻 Linguagem C/C++ & PortugolStudio</p>
-  <p>📊 Planejamento com Cronograma e Matriz de Planejamento 5W2H (Excel)</p>
+  <p>📊 Planejamento com Cronograma (Excel), Matriz de Planejamento 5W2H (Excel) e Daily Scrums</p>
   <p>📝 Documentação Técnica (Word ABNT & Slides)</p>
 </div>
 
@@ -70,7 +70,8 @@
 <p align="center">
 <a href="#">🎥 Vídeo de Apresentação do Projeto em Arduino</a><br>
 <a href="./assets/fotos_projeto/">📸 Fotos do Projeto Físico em Arduino</a><br>
-<a href="./assets/simulacao_tinkercad.gif">🖼️ GIF Representativo no Tinkercad</a>
+<a href="./assets/simulacao_tinkercad.gif">📽️ Vídeo Representativo no Tinkercad</a>
+<a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/sem_foro_inteligente_inclusivo_fukuro1.ino">🖥️ Código C/C++ do Thinkercad</a>
 </p>
 
 <div align="center">
@@ -82,16 +83,14 @@
 | Item | Quantidade |
 | :--- | :---: |
 | Placa Arduino UNO | 1 |
-| LED Vermelho | 4 |
+| LED Vermelho | 3 |
 | LED Amarelo | 2 |
-| LED Verde | 4 |
+| LED Verde | 3 |
 | Resistor (220Ω) | 10 |
-| Buzzer Ativo | 1 |
-| Botão de Pressão | 2 |
+| Buzzer | 1 |
+| Botão de Pressão | 4 |
 | Protoboard | 1 |
 | Cabos Jumper | 1 |
-| Sensor RFID | 1 |
-| Chips TAG | 5 |
 
 </div>
 
@@ -109,7 +108,8 @@
 
 <p align="center">
 <a href="./logic/fluxograma.fprg">📐 Fluxograma do Sistema — Flowgorithm</a><br>
-<a href="./logic/pseudocodigo.por">✍️ Pseudocódigo Operacional — Portugol Studio</a>
+<a href="./logic/pseudocodigo.por">📈 Diagrama do Projeto — Portugol Studio</a>
+<a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Sem%C3%A1foro%20Inteligente%20-%20Fukuro%20Tech%20Dev.por">✍️ Pseudocódigo Operacional — Portugol Studio</a>
 </p>
 
 ---
@@ -127,7 +127,7 @@
 <p align="center">
 <a href="./management/5w2h.xlsx">📋 Matriz de Planejamento 5W2H — Excel</a><br>
 <a href="./management/cronograma.xlsx">📅 Cronograma de Atividades — Excel</a><br>
-<a href="./management/daily_scrum.md">📆 Registro de Daily Scrum</a>
+<a href="./management/daily_scrum.md">📹 Vídeos das Daily Scrums</a>
 </p>
 
 ---
