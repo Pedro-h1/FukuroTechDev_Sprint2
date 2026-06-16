@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=bd93f9&text=%F0%9F%A4%96+Fukuro+Tech+Dev+%E2%80%94+Sprint+2&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=%F0%9F%8C%90+Sem%C3%A1foros+Inteligentes+e+Acess%C3%ADveis&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=bd93f9&text=%F0%9F%A4%96+Fukuro+Tech+%E2%80%94+Sprint+2&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=%F0%9F%8C%90+Sem%C3%A1foros+Inteligentes+e+Acess%C3%ADveis&descAlignY=58&descSize=16&animation=fadeIn" width="100%" />
 </div>
 
 <div align="center">
