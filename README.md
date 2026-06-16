@@ -108,7 +108,7 @@
 
 <p align="center">
 <a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Semáforo%20Inteligente%20-%20Fukuro%20Tech.fprg">📐 Fluxograma do Sistema — Flowgorithm</a><br>
-<a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Semáforo%20Inteligente%20-%20Fukuro%20Tech%20Dev.por">📈 Diagrama do Projeto — Portugol Studio</a><br>
+<a href="https://github.com/Pedro-h1/FukuroTech_Sprint2/blob/main/assets/Diagrama%20do%20Projeto%20%E2%80%94%20Canva.png">📈 Diagrama do Projeto — Canva</a><br>
 <a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Sem%C3%A1foro%20Inteligente%20-%20Fukuro%20Tech%20Dev.por">✍️ Pseudocódigo Operacional — Portugol Studio</a>
 </p>
 
@@ -143,7 +143,7 @@
 </div>
 
 <p align="center">
-<a href="#">📄 Documentação do Projeto (Formatação ABNT) — Word</a><br>
+<a href="https://github.com/Pedro-h1/FukuroTech_Sprint2/blob/main/assets/Documenta%C3%A7%C3%A3o%20do%20Projeto%20%E2%80%94%20GR1.pdf">📄 Documentação do Projeto (Formatação ABNT) — Word</a><br>
 <a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Slides%20de%20Apresentação%20—%20Vídeo.mp4">🖥️ Slides de Apresentação — Vídeo</a><br>
 <a href="https://github.com/Pedro-h1/FukuroTechDev_Sprint2/blob/main/assets/Slides%20de%20Apresentação%20—%20PDF.pdf">📄 Slides de Apresentação — PDF</a>
 </p>
