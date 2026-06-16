@@ -86,11 +86,11 @@
 | LED Vermelho | 3 |
 | LED Amarelo | 2 |
 | LED Verde | 3 |
-| Resistor (220Ω) | 10 |
+| Resistor (220Ω) | 7 |
 | Buzzer | 1 |
 | Botão de Pressão | 4 |
-| Protoboard | 1 |
-| Cabos Jumper | 1 |
+| Protoboard | 2 |
+| Cabos Jumper | 20 |
 
 </div>
 
